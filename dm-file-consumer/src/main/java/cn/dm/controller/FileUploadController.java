@@ -20,7 +20,7 @@ import java.util.*;
  * Created by zzshang on 2015/10/15.
  */
 @Controller
-@RequestMapping("/api/p/")
+@RequestMapping("file/api/p/")
 public class FileUploadController {
 
     static Logger logger = Logger.getLogger(FileUploadController.class);
